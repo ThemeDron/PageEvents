@@ -1,6 +1,7 @@
 /**
  * ThemeDron page events plugin
  * author ThemeDron http://themedron.com
+ * GitHub: https://github.com/ThemeDron/PageEvents
  * page events plugin vers. 0.0.1
  */
 $.fn.TDPageEvents = function(options) {
